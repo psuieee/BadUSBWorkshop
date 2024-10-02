@@ -285,4 +285,8 @@ ECHO Bye!
 TIMEOUT 1 > nul
 
 shutdown /s /t 5 /c "It's nana time!
+<<<<<<< HEAD
 PAUSE
+=======
+PAUSE
+>>>>>>> 478b164a492e854b2562aa2da111bc37d8685cb8
