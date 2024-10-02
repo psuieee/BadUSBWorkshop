@@ -103,8 +103,7 @@
 @color 4
 @ECHO OFF
 
-set /p delBuild=Run Program [y/n]?: 
-IF %delBuild% == y (ECHO Great! Running in:) ELSE ECHO Too bad! Running in:
+ECHO You're fucked! Hacker running in:
 
 ECHO 3
 TIMEOUT 1 > nul
