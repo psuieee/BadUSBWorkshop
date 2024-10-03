@@ -103,7 +103,7 @@
 @color 4
 @ECHO OFF
 
-ECHO You're fucked! Hacker running in:
+ECHO You're in trouble! Hacker running in:
 
 ECHO 3
 TIMEOUT 1 > nul
